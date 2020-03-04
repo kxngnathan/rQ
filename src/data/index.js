@@ -109,9 +109,10 @@ export const sideMenuBar = [
     screen: "SupportScreen"
   },
   {
-    id: 6,
+    id: 8,
     icon: "cogAlt",
-    name: "Settings"
+    name: "Settings",
+    screen: "SettingsScreen"
   }
 ];
 

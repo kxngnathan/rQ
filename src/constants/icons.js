@@ -292,6 +292,16 @@ const icons = {
     width: 20,
     height: 27
   },
+  signoutaAlt: {
+    icon: require("../assets/iconone/signouta-alt.png"),
+    width: 20,
+    height: 27
+  },
+  signoutcAlt: {
+    icon: require("../assets/iconone/signoutc-alt.png"),
+    width: 20,
+    height: 27
+  },
 };
 
 export default icons;
